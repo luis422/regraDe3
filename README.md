@@ -2,11 +2,7 @@
 
 [PT-BR]
 
-
-<img src="https://cdn.discordapp.com/attachments/691143281442029589/903339509872230410/regraDe3.png">
-
-
-> Um programa muito útil e fácil de usar quando se trata de faze a famosa "regra de 3"
+> Um programa muito útil e fácil de usar quando se trata da famosa "regra de 3"
 
 ### Ajustes e melhorias
 
